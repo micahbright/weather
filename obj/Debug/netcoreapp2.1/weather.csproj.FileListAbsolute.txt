@@ -1,0 +1,11 @@
+C:\Users\mbright\source\weather\bin\Debug\netcoreapp2.1\weather.deps.json
+C:\Users\mbright\source\weather\bin\Debug\netcoreapp2.1\weather.runtimeconfig.json
+C:\Users\mbright\source\weather\bin\Debug\netcoreapp2.1\weather.runtimeconfig.dev.json
+C:\Users\mbright\source\weather\bin\Debug\netcoreapp2.1\weather.dll
+C:\Users\mbright\source\weather\bin\Debug\netcoreapp2.1\weather.pdb
+C:\Users\mbright\source\weather\obj\Debug\netcoreapp2.1\weather.csprojAssemblyReference.cache
+C:\Users\mbright\source\weather\obj\Debug\netcoreapp2.1\weather.csproj.CoreCompileInputs.cache
+C:\Users\mbright\source\weather\obj\Debug\netcoreapp2.1\weather.AssemblyInfoInputs.cache
+C:\Users\mbright\source\weather\obj\Debug\netcoreapp2.1\weather.AssemblyInfo.cs
+C:\Users\mbright\source\weather\obj\Debug\netcoreapp2.1\weather.dll
+C:\Users\mbright\source\weather\obj\Debug\netcoreapp2.1\weather.pdb
